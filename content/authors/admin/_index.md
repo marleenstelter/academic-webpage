@@ -27,8 +27,8 @@ social:
     icon_pack: ai
     link: https://www.researchgate.net/profile/Marleen_Stelter
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: FernUniversität in Hagen
+    url: https://www.fernuni-hagen.de/psychologische-methodenlehre/team/marleen.stelter.shtml
 education:
   courses:
     - course: PhD in Artificial Intelligence
