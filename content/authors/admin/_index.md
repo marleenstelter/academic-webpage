@@ -31,15 +31,12 @@ organizations:
     url: https://www.fernuni-hagen.de/psychologische-methodenlehre/team/marleen.stelter.shtml
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: Ph.D. in Psychology
+      institution: Universität Hamburg
+      year: 2018
+    - course: Diploma in Psychology
+      institution: Universität des Saarlandes
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 superuser: true
 status:
   icon: ☕️
