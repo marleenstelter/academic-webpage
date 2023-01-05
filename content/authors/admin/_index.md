@@ -1,36 +1,34 @@
 ---
-# Display name
-title: Alice Wu 吳恩達
-
-# Full name (for SEO)
-first_name: Alice
-last_name: Wu
-
-# Status emoji
-status:
-  icon: ☕️
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
+avatar_filename: unbenannt-2.jpg
+bio: My research interests include face perception and inter-group attitudes.
+interests:
+  - Intergroup face perception (i.e.
+  - the other-‘race’ effect)
+  - Stereotypes and perception of threat
+  - Implicit social cognition
+  - Regional-level bias
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/marleenstelter
+    label: Follow me on Twitter
+    display:
+      header: true
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.de/citations?user=65hyK50AAAAJ&hl=de
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0001-6546-0946
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Marleen_Stelter
 organizations:
   - name: Stanford University
     url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
-# Education to show in About widget
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -42,43 +40,17 @@ education:
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
+superuser: true
+status:
+  icon: ☕️
+last_name: Wu
+role: Postdoctoral researcher
 highlight_name: true
+title: Marleen Stelter
+first_name: Alice
+email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+
+Hi, my name is Marleen Stelter and I am a social psychologist. My research focusses on how people perceive others and how social perceptions are influenced by social group memberships. I investigate how stereotypes and prejudice affect peoples perceptions and behaviors towards individuals of stigmatized individuals. Furthermore, I investigate how perceived 'race' affects memory for faces. It is a well-known phenomenon that people are better at recognizing people from their own 'racial' group compared to people from other groups. For example, White people are often better at recognizing White faces compared to Black or Asian faces. This effect can have severe consequences, for example in the context of eye-witness identifications. In my research, I am trying to understand *why* this so-called other-'race' effect occurs and *how* it can be overcome.
 {style="text-align: justify;"}
