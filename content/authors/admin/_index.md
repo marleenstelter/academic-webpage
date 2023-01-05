@@ -37,7 +37,7 @@ education:
     - course: Diploma in Psychology
       institution: Universität des Saarlandes
       year: 2012
-superuser: true
+superuser: false
 status:
   icon: ☕️
 last_name: Wu
