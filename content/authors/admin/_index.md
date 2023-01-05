@@ -1,5 +1,5 @@
 ---
-avatar_filename: unbenannt-2.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include face perception and inter-group attitudes.
 interests:
   - Intergroup face perception (i.e.
